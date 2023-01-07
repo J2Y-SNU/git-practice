@@ -2,7 +2,7 @@ secrets.yaml
 
 
 
-# 이렇게 #를 사용해서 주석
+##### GIT 이그노어 형식 #####
 
 # 모든 file.c
 #file.c
